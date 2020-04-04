@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6d48b58-f790-4a43-8e0d-3f7181305dfe" name="Default Changelist" comment="" />
+    <list default="true" id="b6d48b58-f790-4a43-8e0d-3f7181305dfe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/.idea/Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Jogos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Jogos.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adivinhacao.py" beforeDir="false" afterPath="$PROJECT_DIR$/adivinhacao.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forca.py" beforeDir="false" afterPath="$PROJECT_DIR$/forca.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +22,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1YwnMpiR3wskNaBhOPhQ5MYLCri" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,14 +34,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Eduardo\PycharmProjects\Jogos" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.forca">
     <configuration name="adivinhacao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Jogos" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -51,8 +65,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="forca" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Jogos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/forca.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.forca" />
         <item itemvalue="Python.adivinhacao" />
       </list>
     </recent_temporary>
@@ -71,21 +107,43 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1472" height="151" key="GridCell.Tab.0.bottom" timestamp="1583987459774">
+    <state x="1061" y="455" key="FileChooserDialogImpl" timestamp="1584885006793">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1472" height="151" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1583987459774" />
-    <state width="1472" height="151" key="GridCell.Tab.0.center" timestamp="1583987459774">
+    <state x="1061" y="455" key="FileChooserDialogImpl/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1584885006793" />
+    <state width="2539" height="256" key="GridCell.Tab.0.bottom" timestamp="1584985517552">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1472" height="151" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1583987459774" />
-    <state width="1472" height="151" key="GridCell.Tab.0.left" timestamp="1583987459774">
+    <state width="2539" height="256" key="GridCell.Tab.0.bottom/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1584891866685" />
+    <state width="2539" height="256" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1584985517552" />
+    <state width="2539" height="256" key="GridCell.Tab.0.center" timestamp="1584985517552">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1472" height="151" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1583987459774" />
-    <state width="1472" height="151" key="GridCell.Tab.0.right" timestamp="1583987459774">
+    <state width="2539" height="256" key="GridCell.Tab.0.center/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1584891866685" />
+    <state width="2539" height="256" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1584985517552" />
+    <state width="2539" height="256" key="GridCell.Tab.0.left" timestamp="1584985517552">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1472" height="151" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1583987459774" />
+    <state width="2539" height="256" key="GridCell.Tab.0.left/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1584891866685" />
+    <state width="2539" height="256" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1584985517552" />
+    <state width="2539" height="256" key="GridCell.Tab.0.right" timestamp="1584985517552">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="256" key="GridCell.Tab.0.right/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1584891866685" />
+    <state width="2539" height="256" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1584985517552" />
+    <state x="782" y="343" key="SettingsEditor" timestamp="1584969665145">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="782" y="343" key="SettingsEditor/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1584886096471" />
+    <state x="782" y="343" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1584969665145" />
+    <state x="976" y="298" width="612" height="804" key="find.popup" timestamp="1584969583995">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="976" y="298" width="612" height="804" key="find.popup/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1584885871654" />
+    <state x="976" y="298" width="612" height="804" key="find.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1584969583995" />
+    <state x="1023" y="344" key="refactoring.ChangeSignatureDialog" timestamp="1584883903086">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1023" y="344" key="refactoring.ChangeSignatureDialog/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1584883903086" />
   </component>
 </project>
